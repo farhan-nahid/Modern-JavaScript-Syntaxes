@@ -9,3 +9,5 @@ if(PicnicSpot){
 }else{
    console.log("i am falsy"); 
 }
+
+// include this 6 option all things are  truthy

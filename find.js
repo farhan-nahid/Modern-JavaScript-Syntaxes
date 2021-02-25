@@ -7,3 +7,5 @@ return currentValue>5;
 })
 
 console.log(result);
+
+// element khuje ber kora
